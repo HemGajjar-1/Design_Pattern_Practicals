@@ -1,0 +1,12 @@
+C:\Users\hem.gajjar\source\repos\Design_Pattern_Practical\Design_Pattern_Practicals\Practical_24\Practical_24\Practical_24.Domain\bin\Debug\net8.0\Practical_24.Domain.deps.json
+C:\Users\hem.gajjar\source\repos\Design_Pattern_Practical\Design_Pattern_Practicals\Practical_24\Practical_24\Practical_24.Domain\bin\Debug\net8.0\Practical_24.Domain.dll
+C:\Users\hem.gajjar\source\repos\Design_Pattern_Practical\Design_Pattern_Practicals\Practical_24\Practical_24\Practical_24.Domain\bin\Debug\net8.0\Practical_24.Domain.pdb
+C:\Users\hem.gajjar\source\repos\Design_Pattern_Practical\Design_Pattern_Practicals\Practical_24\Practical_24\Practical_24.Domain\obj\Debug\net8.0\Practical_24.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hem.gajjar\source\repos\Design_Pattern_Practical\Design_Pattern_Practicals\Practical_24\Practical_24\Practical_24.Domain\obj\Debug\net8.0\Practical_24.Domain.AssemblyInfoInputs.cache
+C:\Users\hem.gajjar\source\repos\Design_Pattern_Practical\Design_Pattern_Practicals\Practical_24\Practical_24\Practical_24.Domain\obj\Debug\net8.0\Practical_24.Domain.AssemblyInfo.cs
+C:\Users\hem.gajjar\source\repos\Design_Pattern_Practical\Design_Pattern_Practicals\Practical_24\Practical_24\Practical_24.Domain\obj\Debug\net8.0\Practical_24.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hem.gajjar\source\repos\Design_Pattern_Practical\Design_Pattern_Practicals\Practical_24\Practical_24\Practical_24.Domain\obj\Debug\net8.0\Practical_24.Domain.sourcelink.json
+C:\Users\hem.gajjar\source\repos\Design_Pattern_Practical\Design_Pattern_Practicals\Practical_24\Practical_24\Practical_24.Domain\obj\Debug\net8.0\Practical_24.Domain.dll
+C:\Users\hem.gajjar\source\repos\Design_Pattern_Practical\Design_Pattern_Practicals\Practical_24\Practical_24\Practical_24.Domain\obj\Debug\net8.0\refint\Practical_24.Domain.dll
+C:\Users\hem.gajjar\source\repos\Design_Pattern_Practical\Design_Pattern_Practicals\Practical_24\Practical_24\Practical_24.Domain\obj\Debug\net8.0\Practical_24.Domain.pdb
+C:\Users\hem.gajjar\source\repos\Design_Pattern_Practical\Design_Pattern_Practicals\Practical_24\Practical_24\Practical_24.Domain\obj\Debug\net8.0\ref\Practical_24.Domain.dll

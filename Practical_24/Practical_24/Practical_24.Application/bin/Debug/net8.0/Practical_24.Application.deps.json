@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Practical_24.Application/1.0.0": {
+        "dependencies": {
+          "Practical_24.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Practical_24.Application.dll": {}
+        }
+      },
+      "Practical_24.Domain/1.0.0": {
+        "runtime": {
+          "Practical_24.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practical_24.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Practical_24.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
