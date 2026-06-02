@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_23\\Practical_23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EED296C-D0E4-4A5A-8638-1B068D7CCFD5}|Practical_23.API\\Practical_23.API.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_23\\practical_23\\practical_23.api\\controllers\\overtimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EED296C-D0E4-4A5A-8638-1B068D7CCFD5}|Practical_23.API\\Practical_23.API.csproj|solutionrelative:practical_23.api\\controllers\\overtimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36554CEA-E4BD-459F-AC50-26F6C5570EDC}|Practical_23.BAL\\Practical_23.BAL.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_23\\practical_23\\practical_23.bal\\services\\overtimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36554CEA-E4BD-459F-AC50-26F6C5570EDC}|Practical_23.BAL\\Practical_23.BAL.csproj|solutionrelative:practical_23.bal\\services\\overtimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36554CEA-E4BD-459F-AC50-26F6C5570EDC}|Practical_23.BAL\\Practical_23.BAL.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_23\\practical_23\\practical_23.bal\\abstractfactorypattern\\outdoorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36554CEA-E4BD-459F-AC50-26F6C5570EDC}|Practical_23.BAL\\Practical_23.BAL.csproj|solutionrelative:practical_23.bal\\abstractfactorypattern\\outdoorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36554CEA-E4BD-459F-AC50-26F6C5570EDC}|Practical_23.BAL\\Practical_23.BAL.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_23\\practical_23\\practical_23.bal\\abstractfactorypattern\\factoryproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36554CEA-E4BD-459F-AC50-26F6C5570EDC}|Practical_23.BAL\\Practical_23.BAL.csproj|solutionrelative:practical_23.bal\\abstractfactorypattern\\factoryproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36554CEA-E4BD-459F-AC50-26F6C5570EDC}|Practical_23.BAL\\Practical_23.BAL.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_23\\practical_23\\practical_23.bal\\abstractfactorypattern\\idepartmentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36554CEA-E4BD-459F-AC50-26F6C5570EDC}|Practical_23.BAL\\Practical_23.BAL.csproj|solutionrelative:practical_23.bal\\abstractfactorypattern\\idepartmentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36554CEA-E4BD-459F-AC50-26F6C5570EDC}|Practical_23.BAL\\Practical_23.BAL.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_23\\practical_23\\practical_23.bal\\abstractfactorypattern\\indoorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36554CEA-E4BD-459F-AC50-26F6C5570EDC}|Practical_23.BAL\\Practical_23.BAL.csproj|solutionrelative:practical_23.bal\\abstractfactorypattern\\indoorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36554CEA-E4BD-459F-AC50-26F6C5570EDC}|Practical_23.BAL\\Practical_23.BAL.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_23\\practical_23\\practical_23.bal\\factorypattern\\departmentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36554CEA-E4BD-459F-AC50-26F6C5570EDC}|Practical_23.BAL\\Practical_23.BAL.csproj|solutionrelative:practical_23.bal\\factorypattern\\departmentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16087C0F-5E1F-4AF7-A365-EB6C674A5E13}|Practical_23.Domain\\Practical_23.Domain.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_23\\practical_23\\practical_23.domain\\interfaces\\iovertimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16087C0F-5E1F-4AF7-A365-EB6C674A5E13}|Practical_23.Domain\\Practical_23.Domain.csproj|solutionrelative:practical_23.domain\\interfaces\\iovertimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16087C0F-5E1F-4AF7-A365-EB6C674A5E13}|Practical_23.Domain\\Practical_23.Domain.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_23\\practical_23\\practical_23.domain\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16087C0F-5E1F-4AF7-A365-EB6C674A5E13}|Practical_23.Domain\\Practical_23.Domain.csproj|solutionrelative:practical_23.domain\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36554CEA-E4BD-459F-AC50-26F6C5570EDC}|Practical_23.BAL\\Practical_23.BAL.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_23\\practical_23\\practical_23.bal\\factorypattern\\iovertimecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36554CEA-E4BD-459F-AC50-26F6C5570EDC}|Practical_23.BAL\\Practical_23.BAL.csproj|solutionrelative:practical_23.bal\\factorypattern\\iovertimecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 14,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OvertimeController.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_23\\Practical_23\\Practical_23.API\\Controllers\\OvertimeController.cs",
+              "RelativeDocumentMoniker": "Practical_23.API\\Controllers\\OvertimeController.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_23\\Practical_23\\Practical_23.API\\Controllers\\OvertimeController.cs",
+              "RelativeToolTip": "Practical_23.API\\Controllers\\OvertimeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T10:12:28.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FactoryProducer.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_23\\Practical_23\\Practical_23.BAL\\AbstractFactoryPattern\\FactoryProducer.cs",
+              "RelativeDocumentMoniker": "Practical_23.BAL\\AbstractFactoryPattern\\FactoryProducer.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_23\\Practical_23\\Practical_23.BAL\\AbstractFactoryPattern\\FactoryProducer.cs",
+              "RelativeToolTip": "Practical_23.BAL\\AbstractFactoryPattern\\FactoryProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T10:01:54.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutdoorFactory.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_23\\Practical_23\\Practical_23.BAL\\AbstractFactoryPattern\\OutdoorFactory.cs",
+              "RelativeDocumentMoniker": "Practical_23.BAL\\AbstractFactoryPattern\\OutdoorFactory.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_23\\Practical_23\\Practical_23.BAL\\AbstractFactoryPattern\\OutdoorFactory.cs",
+              "RelativeToolTip": "Practical_23.BAL\\AbstractFactoryPattern\\OutdoorFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T09:58:30.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IndoorFactory.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_23\\Practical_23\\Practical_23.BAL\\AbstractFactoryPattern\\IndoorFactory.cs",
+              "RelativeDocumentMoniker": "Practical_23.BAL\\AbstractFactoryPattern\\IndoorFactory.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_23\\Practical_23\\Practical_23.BAL\\AbstractFactoryPattern\\IndoorFactory.cs",
+              "RelativeToolTip": "Practical_23.BAL\\AbstractFactoryPattern\\IndoorFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T09:55:02.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDepartmentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_23\\Practical_23\\Practical_23.BAL\\AbstractFactoryPattern\\IDepartmentFactory.cs",
+              "RelativeDocumentMoniker": "Practical_23.BAL\\AbstractFactoryPattern\\IDepartmentFactory.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_23\\Practical_23\\Practical_23.BAL\\AbstractFactoryPattern\\IDepartmentFactory.cs",
+              "RelativeToolTip": "Practical_23.BAL\\AbstractFactoryPattern\\IDepartmentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T09:53:30.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_23\\Practical_23\\Practical_23.BAL\\FactoryPattern\\DepartmentFactory.cs",
+              "RelativeDocumentMoniker": "Practical_23.BAL\\FactoryPattern\\DepartmentFactory.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_23\\Practical_23\\Practical_23.BAL\\FactoryPattern\\DepartmentFactory.cs",
+              "RelativeToolTip": "Practical_23.BAL\\FactoryPattern\\DepartmentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T09:49:14.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OvertimeService.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_23\\Practical_23\\Practical_23.BAL\\Services\\OvertimeService.cs",
+              "RelativeDocumentMoniker": "Practical_23.BAL\\Services\\OvertimeService.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_23\\Practical_23\\Practical_23.BAL\\Services\\OvertimeService.cs",
+              "RelativeToolTip": "Practical_23.BAL\\Services\\OvertimeService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAADUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T09:49:08.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_23\\Practical_23\\Practical_23.Domain\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Practical_23.Domain\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_23\\Practical_23\\Practical_23.Domain\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "Practical_23.Domain\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T09:48:35.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOvertimeService.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_23\\Practical_23\\Practical_23.Domain\\Interfaces\\IOvertimeService.cs",
+              "RelativeDocumentMoniker": "Practical_23.Domain\\Interfaces\\IOvertimeService.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_23\\Practical_23\\Practical_23.Domain\\Interfaces\\IOvertimeService.cs",
+              "RelativeToolTip": "Practical_23.Domain\\Interfaces\\IOvertimeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T09:48:23.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOvertimeCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_23\\Practical_23\\Practical_23.BAL\\FactoryPattern\\IOvertimeCalculator.cs",
+              "RelativeDocumentMoniker": "Practical_23.BAL\\FactoryPattern\\IOvertimeCalculator.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_23\\Practical_23\\Practical_23.BAL\\FactoryPattern\\IOvertimeCalculator.cs",
+              "RelativeToolTip": "Practical_23.BAL\\FactoryPattern\\IOvertimeCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T09:47:30.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

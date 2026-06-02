@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B2E3BE75-342D-9EF5-A34D-F2F81B67989C}|Practical_25.DAL\\Practical_25.DAL.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_25\\practical_25\\practical_25.dal\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E3BE75-342D-9EF5-A34D-F2F81B67989C}|Practical_25.DAL\\Practical_25.DAL.csproj|solutionrelative:practical_25.dal\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -67,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{A8F501AE-2968-B91E-E461-C11D382D37EF}|Practica_25.API\\Practical_25.API.csproj|solutionrelative:practica_25.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2E3BE75-342D-9EF5-A34D-F2F81B67989C}|Practical_25.DAL\\Practical_25.DAL.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_25\\practical_25\\practical_25.dal\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2E3BE75-342D-9EF5-A34D-F2F81B67989C}|Practical_25.DAL\\Practical_25.DAL.csproj|solutionrelative:practical_25.dal\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B034657A-CC78-0687-24D0-C02BDD573D2E}|Practical_25.Domain\\Practical_25.Domain.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_25\\practical_25\\practical_25.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B034657A-CC78-0687-24D0-C02BDD573D2E}|Practical_25.Domain\\Practical_25.Domain.csproj|solutionrelative:practical_25.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -110,11 +110,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 14,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -127,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "20260601141024_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\Practical_25.DAL\\Migrations\\20260601141024_InitialCreate.cs",
               "RelativeDocumentMoniker": "Practical_25.DAL\\Migrations\\20260601141024_InitialCreate.cs",
@@ -135,12 +139,11 @@
               "RelativeToolTip": "Practical_25.DAL\\Migrations\\20260601141024_InitialCreate.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAUwB0AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T14:10:24.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-01T14:10:24.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\Practica_25.API\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Practica_25.API\\Controllers\\EmployeeController.cs",
@@ -152,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GetEmployeeQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\Practical_25.Application\\Features\\Employees\\Queries\\GetEmployee\\GetEmployeeQueryHandler.cs",
               "RelativeDocumentMoniker": "Practical_25.Application\\Features\\Employees\\Queries\\GetEmployee\\GetEmployeeQueryHandler.cs",
@@ -164,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DeleteEmployeeCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\Practical_25.Application\\Features\\Employees\\Command\\DeleteEmployee\\DeleteEmployeeCommandHandler.cs",
               "RelativeDocumentMoniker": "Practical_25.Application\\Features\\Employees\\Command\\DeleteEmployee\\DeleteEmployeeCommandHandler.cs",
@@ -176,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UpdateEmployeeCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\Practical_25.Application\\Features\\Employees\\Command\\UpdateEmployee\\UpdateEmployeeCommandHandler.cs",
               "RelativeDocumentMoniker": "Practical_25.Application\\Features\\Employees\\Command\\UpdateEmployee\\UpdateEmployeeCommandHandler.cs",
@@ -188,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UpdateEmployeeCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\Practical_25.Application\\Features\\Employees\\Command\\UpdateEmployee\\UpdateEmployeeCommandValidator.cs",
               "RelativeDocumentMoniker": "Practical_25.Application\\Features\\Employees\\Command\\UpdateEmployee\\UpdateEmployeeCommandValidator.cs",
@@ -200,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CreateEmployeeCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\Practical_25.Application\\Features\\Employees\\Command\\CreateEmployee\\CreateEmployeeCommandHandler.cs",
               "RelativeDocumentMoniker": "Practical_25.Application\\Features\\Employees\\Command\\CreateEmployee\\CreateEmployeeCommandHandler.cs",
@@ -212,7 +215,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\Practical_25.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Practical_25.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\Practical_25.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Practical_25.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:11:26.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CreateEmployeeCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\Practical_25.Application\\Features\\Employees\\Command\\CreateEmployee\\CreateEmployeeCommandValidator.cs",
               "RelativeDocumentMoniker": "Practical_25.Application\\Features\\Employees\\Command\\CreateEmployee\\CreateEmployeeCommandValidator.cs",
@@ -224,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "GetEmployeeQuery.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\Practical_25.Application\\Features\\Employees\\Queries\\GetEmployee\\GetEmployeeQuery.cs",
               "RelativeDocumentMoniker": "Practical_25.Application\\Features\\Employees\\Queries\\GetEmployee\\GetEmployeeQuery.cs",
@@ -236,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "DeleteEmployeeCommand.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\Practical_25.Application\\Features\\Employees\\Command\\DeleteEmployee\\DeleteEmployeeCommand.cs",
               "RelativeDocumentMoniker": "Practical_25.Application\\Features\\Employees\\Command\\DeleteEmployee\\DeleteEmployeeCommand.cs",
@@ -248,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "UpdateEmployeeCommand.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\Practical_25.Application\\Features\\Employees\\Command\\UpdateEmployee\\UpdateEmployeeCommand.cs",
               "RelativeDocumentMoniker": "Practical_25.Application\\Features\\Employees\\Command\\UpdateEmployee\\UpdateEmployeeCommand.cs",
@@ -260,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CreateEmployeeCommand.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\Practical_25.Application\\Features\\Employees\\Command\\CreateEmployee\\CreateEmployeeCommand.cs",
               "RelativeDocumentMoniker": "Practical_25.Application\\Features\\Employees\\Command\\CreateEmployee\\CreateEmployeeCommand.cs",
@@ -272,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\Practical_25.DAL\\Repository\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "Practical_25.DAL\\Repository\\EmployeeRepository.cs",
@@ -284,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "EmployeeDto.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\Practical_25.Application\\DTOs\\EmployeeDto.cs",
               "RelativeDocumentMoniker": "Practical_25.Application\\DTOs\\EmployeeDto.cs",
@@ -296,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\Practica_25.API\\Program.cs",
               "RelativeDocumentMoniker": "Practica_25.API\\Program.cs",
@@ -305,18 +321,6 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-01T12:19:59.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\Practical_25.DAL\\UnitOfWork\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Practical_25.DAL\\UnitOfWork\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_25\\Practical_25\\Practical_25.DAL\\UnitOfWork\\UnitOfWork.cs",
-              "RelativeToolTip": "Practical_25.DAL\\UnitOfWork\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T12:11:26.141Z"
             },
             {
               "$type": "Document",
@@ -413,10 +417,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-01T11:12:17.518Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
