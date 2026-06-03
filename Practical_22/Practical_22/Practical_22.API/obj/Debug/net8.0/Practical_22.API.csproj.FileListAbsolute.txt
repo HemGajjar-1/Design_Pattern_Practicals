@@ -462,3 +462,5 @@ C:\Users\hem.gajjar\source\repos\Design_Pattern_Practical\Design_Pattern_Practic
 C:\Users\hem.gajjar\source\repos\Design_Pattern_Practical\Design_Pattern_Practicals\Practical_22\Practical_22\Practical_22.API\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\hem.gajjar\source\repos\Design_Pattern_Practical\Design_Pattern_Practicals\Practical_22\Practical_22\Practical_22.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\hem.gajjar\source\repos\Design_Pattern_Practical\Design_Pattern_Practicals\Practical_22\Practical_22\Practical_22.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\hem.gajjar\source\repos\Design_Pattern_Practical\Design_Pattern_Practicals\Practical_22\Practical_22\Practical_22.API\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\hem.gajjar\source\repos\Design_Pattern_Practical\Design_Pattern_Practicals\Practical_22\Practical_22\Practical_22.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
