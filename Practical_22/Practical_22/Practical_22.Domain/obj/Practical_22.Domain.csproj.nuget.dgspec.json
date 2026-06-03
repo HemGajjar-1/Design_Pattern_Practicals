@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Domain\\Practical_22.Domain.csproj": {}
+    "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Domain\\Practical_22.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Domain\\Practical_22.Domain.csproj": {
+    "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Domain\\Practical_22.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Domain\\Practical_22.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Domain\\Practical_22.Domain.csproj",
         "projectName": "Practical_22.Domain",
-        "projectPath": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Domain\\Practical_22.Domain.csproj",
+        "projectPath": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Domain\\Practical_22.Domain.csproj",
         "packagesPath": "C:\\Users\\hem.gajjar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Domain\\obj\\",
+        "outputPath": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

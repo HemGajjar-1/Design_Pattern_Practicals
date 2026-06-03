@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "i2c0DcTwKLY=",
+  "dgSpecHash": "uO6gyYJ3QZ0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\hem.gajjar\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\hem.gajjar\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\hem.gajjar\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\hem.gajjar\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
     "C:\\Users\\hem.gajjar\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\hem.gajjar\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\hem.gajjar\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.7\\microsoft.data.sqlclient.5.1.7.nupkg.sha512",
@@ -63,5 +65,18 @@
     "C:\\Users\\hem.gajjar\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
     "C:\\Users\\hem.gajjar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'AutoMapper' 14.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
+      "projectPath": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

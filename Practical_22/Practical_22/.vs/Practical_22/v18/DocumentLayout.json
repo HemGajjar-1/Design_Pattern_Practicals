@@ -1,62 +1,102 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\",
+  "WorkspaceRootPath": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22.api\\practical_22.application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|solutionrelative:practical_22.application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1246CF0E-5FC4-48D4-800D-ED4A89EB74C2}|Practical_22.API\\Practical_22.API.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22.api\\practical_22.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1246CF0E-5FC4-48D4-800D-ED4A89EB74C2}|Practical_22.API\\Practical_22.API.csproj|solutionrelative:practical_22.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C59352F-0E75-4306-99C1-D203FBF9F521}|Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22.api\\practical_22.infrastructure\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C59352F-0E75-4306-99C1-D203FBF9F521}|Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj|solutionrelative:practical_22.infrastructure\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Infrastructure\\Migrations\\20260601051015_InitialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practical_22.Infrastructure\\Migrations\\20260601051015_InitialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1246CF0E-5FC4-48D4-800D-ED4A89EB74C2}|Practical_22.API\\Practical_22.API.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22.api\\practical_22.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1246CF0E-5FC4-48D4-800D-ED4A89EB74C2}|Practical_22.API\\Practical_22.API.csproj|solutionrelative:practical_22.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1246CF0E-5FC4-48D4-800D-ED4A89EB74C2}|Practical_22.API\\Practical_22.API.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22.api\\practical_22.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1246CF0E-5FC4-48D4-800D-ED4A89EB74C2}|Practical_22.API\\Practical_22.API.csproj|solutionrelative:practical_22.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C59352F-0E75-4306-99C1-D203FBF9F521}|Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22.api\\practical_22.infrastructure\\logging\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C59352F-0E75-4306-99C1-D203FBF9F521}|Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj|solutionrelative:practical_22.infrastructure\\logging\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1246CF0E-5FC4-48D4-800D-ED4A89EB74C2}|Practical_22.API\\Practical_22.API.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22.api\\practical_22.api\\practical_22.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1246CF0E-5FC4-48D4-800D-ED4A89EB74C2}|Practical_22.API\\Practical_22.API.csproj|solutionrelative:practical_22.api\\practical_22.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1246CF0E-5FC4-48D4-800D-ED4A89EB74C2}|Practical_22.API\\Practical_22.API.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22.api\\practical_22.api\\logs.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{1246CF0E-5FC4-48D4-800D-ED4A89EB74C2}|Practical_22.API\\Practical_22.API.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.api\\logs.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{1246CF0E-5FC4-48D4-800D-ED4A89EB74C2}|Practical_22.API\\Practical_22.API.csproj|solutionrelative:practical_22.api\\logs.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22.api\\practical_22.application\\interfaces\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|solutionrelative:practical_22.application\\interfaces\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1246CF0E-5FC4-48D4-800D-ED4A89EB74C2}|Practical_22.API\\Practical_22.API.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1246CF0E-5FC4-48D4-800D-ED4A89EB74C2}|Practical_22.API\\Practical_22.API.csproj|solutionrelative:practical_22.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2685141F-E24E-4FCE-B31C-2FE24AC2D45D}|Practical_22.Domain\\Practical_22.Domain.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22.api\\practical_22.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2685141F-E24E-4FCE-B31C-2FE24AC2D45D}|Practical_22.Domain\\Practical_22.Domain.csproj|solutionrelative:practical_22.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22.api\\practical_22.application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|solutionrelative:practical_22.application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22.api\\practical_22.application\\dtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.application\\dtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|solutionrelative:practical_22.application\\dtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22.api\\practical_22.application\\dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|solutionrelative:practical_22.application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.application\\dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|solutionrelative:practical_22.application\\dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.application\\validators\\updateemployeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|solutionrelative:practical_22.application\\validators\\updateemployeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.application\\validators\\createemployeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|solutionrelative:practical_22.application\\validators\\createemployeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C59352F-0E75-4306-99C1-D203FBF9F521}|Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.infrastructure\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C59352F-0E75-4306-99C1-D203FBF9F521}|Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj|solutionrelative:practical_22.infrastructure\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|solutionrelative:practical_22.application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.application\\mapping\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|solutionrelative:practical_22.application\\mapping\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C59352F-0E75-4306-99C1-D203FBF9F521}|Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C59352F-0E75-4306-99C1-D203FBF9F521}|Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj|solutionrelative:practical_22.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.application\\interfaces\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|solutionrelative:practical_22.application\\interfaces\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C59352F-0E75-4306-99C1-D203FBF9F521}|Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C59352F-0E75-4306-99C1-D203FBF9F521}|Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj|solutionrelative:practical_22.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.application\\interfaces\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|solutionrelative:practical_22.application\\interfaces\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C59352F-0E75-4306-99C1-D203FBF9F521}|Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C59352F-0E75-4306-99C1-D203FBF9F521}|Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj|solutionrelative:practical_22.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.application\\interfaces\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|solutionrelative:practical_22.application\\interfaces\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2685141F-E24E-4FCE-B31C-2FE24AC2D45D}|Practical_22.Domain\\Practical_22.Domain.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2685141F-E24E-4FCE-B31C-2FE24AC2D45D}|Practical_22.Domain\\Practical_22.Domain.csproj|solutionrelative:practical_22.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C59352F-0E75-4306-99C1-D203FBF9F521}|Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.infrastructure\\logging\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C59352F-0E75-4306-99C1-D203FBF9F521}|Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj|solutionrelative:practical_22.infrastructure\\logging\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C59352F-0E75-4306-99C1-D203FBF9F521}|Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C59352F-0E75-4306-99C1-D203FBF9F521}|Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj|solutionrelative:practical_22.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.application\\interfaces\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F980AD9-5AFA-45FE-90C8-0ADE00645EA3}|Practical_22.Application\\Practical_22.Application.csproj|solutionrelative:practical_22.application\\interfaces\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1246CF0E-5FC4-48D4-800D-ED4A89EB74C2}|Practical_22.API\\Practical_22.API.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1246CF0E-5FC4-48D4-800D-ED4A89EB74C2}|Practical_22.API\\Practical_22.API.csproj|solutionrelative:practical_22.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1246CF0E-5FC4-48D4-800D-ED4A89EB74C2}|Practical_22.API\\Practical_22.API.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1246CF0E-5FC4-48D4-800D-ED4A89EB74C2}|Practical_22.API\\Practical_22.API.csproj|solutionrelative:practical_22.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C59352F-0E75-4306-99C1-D203FBF9F521}|Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj|c:\\users\\hem.gajjar\\source\\repos\\design_pattern_practical\\design_pattern_practicals\\practical_22\\practical_22\\practical_22.infrastructure\\migrations\\20260601051015_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C59352F-0E75-4306-99C1-D203FBF9F521}|Practical_22.Infrastructure\\Practical_22.Infrastructure.csproj|solutionrelative:practical_22.infrastructure\\migrations\\20260601051015_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,158 +106,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 14,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20260601051015_InitialCreate2.cs",
-              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Infrastructure\\Migrations\\20260601051015_InitialCreate2.cs",
-              "RelativeDocumentMoniker": "Practical_22.Infrastructure\\Migrations\\20260601051015_InitialCreate2.cs",
-              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Infrastructure\\Migrations\\20260601051015_InitialCreate2.cs",
-              "RelativeToolTip": "Practical_22.Infrastructure\\Migrations\\20260601051015_InitialCreate2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAPsAAAAAAAAAAADwvy8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-03T05:41:39.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateEmployeeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\Validators\\UpdateEmployeeValidator.cs",
+              "RelativeDocumentMoniker": "Practical_22.Application\\Validators\\UpdateEmployeeValidator.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\Validators\\UpdateEmployeeValidator.cs",
+              "RelativeToolTip": "Practical_22.Application\\Validators\\UpdateEmployeeValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T05:10:15.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Practical_22.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.API\\appsettings.json",
-              "RelativeToolTip": "Practical_22.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-01T05:06:57.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.API\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Practical_22.API\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.API\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Practical_22.API\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T05:01:42.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Practical_22.API.csproj",
-              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.API\\Practical_22.API.csproj",
-              "RelativeDocumentMoniker": "Practical_22.API\\Practical_22.API.csproj",
-              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.API\\Practical_22.API.csproj",
-              "RelativeToolTip": "Practical_22.API\\Practical_22.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-01T05:01:43.006Z",
+              "WhenOpened": "2026-06-03T05:03:32.019Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Infrastructure\\Services\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "Practical_22.Infrastructure\\Services\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Infrastructure\\Services\\EmployeeService.cs",
-              "RelativeToolTip": "Practical_22.Infrastructure\\Services\\EmployeeService.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAADwv2AAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T05:01:43.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Logs.txt",
-              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.API\\Logs.txt",
-              "RelativeDocumentMoniker": "Practical_22.API\\Logs.txt",
-              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.API\\Logs.txt",
-              "RelativeToolTip": "Practical_22.API\\Logs.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-06-01T05:01:43.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.API\\Program.cs",
               "RelativeDocumentMoniker": "Practical_22.API\\Program.cs",
-              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.API\\Program.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.API\\Program.cs",
               "RelativeToolTip": "Practical_22.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-01T05:01:43.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoggerService.cs",
-              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Infrastructure\\Logging\\LoggerService.cs",
-              "RelativeDocumentMoniker": "Practical_22.Infrastructure\\Logging\\LoggerService.cs",
-              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Infrastructure\\Logging\\LoggerService.cs",
-              "RelativeToolTip": "Practical_22.Infrastructure\\Logging\\LoggerService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CreateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\DTOs\\CreateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "Practical_22.Application\\DTOs\\CreateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\DTOs\\CreateEmployeeDto.cs",
+              "RelativeToolTip": "Practical_22.Application\\DTOs\\CreateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T05:01:43.221Z",
+              "WhenOpened": "2026-06-01T05:01:43.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Application\\Interfaces\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "Practical_22.Application\\Interfaces\\IEmployeeService.cs",
-              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Application\\Interfaces\\IEmployeeService.cs",
-              "RelativeToolTip": "Practical_22.Application\\Interfaces\\IEmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T05:01:43.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ILoggerService.cs",
-              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Application\\Interfaces\\ILoggerService.cs",
-              "RelativeDocumentMoniker": "Practical_22.Application\\Interfaces\\ILoggerService.cs",
-              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Application\\Interfaces\\ILoggerService.cs",
-              "RelativeToolTip": "Practical_22.Application\\Interfaces\\ILoggerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T05:01:43.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Domain\\Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "Practical_22.Domain\\Entities\\Employee.cs",
-              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Domain\\Entities\\Employee.cs",
-              "RelativeToolTip": "Practical_22.Domain\\Entities\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T05:01:43.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "EmployeeDto.cs",
-              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Application\\DTOs\\EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\DTOs\\EmployeeDto.cs",
               "RelativeDocumentMoniker": "Practical_22.Application\\DTOs\\EmployeeDto.cs",
-              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Application\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\DTOs\\EmployeeDto.cs",
               "RelativeToolTip": "Practical_22.Application\\DTOs\\EmployeeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -226,28 +175,253 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "UpdateEmployeeDto.cs",
-              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Application\\DTOs\\UpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\DTOs\\UpdateEmployeeDto.cs",
               "RelativeDocumentMoniker": "Practical_22.Application\\DTOs\\UpdateEmployeeDto.cs",
-              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Application\\DTOs\\UpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\DTOs\\UpdateEmployeeDto.cs",
               "RelativeToolTip": "Practical_22.Application\\DTOs\\UpdateEmployeeDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-01T05:01:43.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateEmployeeDto.cs",
-              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Application\\DTOs\\CreateEmployeeDto.cs",
-              "RelativeDocumentMoniker": "Practical_22.Application\\DTOs\\CreateEmployeeDto.cs",
-              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22.API\\Practical_22.Application\\DTOs\\CreateEmployeeDto.cs",
-              "RelativeToolTip": "Practical_22.Application\\DTOs\\CreateEmployeeDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Logs.txt",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.API\\Logs.txt",
+              "RelativeDocumentMoniker": "Practical_22.API\\Logs.txt",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.API\\Logs.txt",
+              "RelativeToolTip": "Practical_22.API\\Logs.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-01T05:01:43.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateEmployeeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\Validators\\CreateEmployeeValidator.cs",
+              "RelativeDocumentMoniker": "Practical_22.Application\\Validators\\CreateEmployeeValidator.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\Validators\\CreateEmployeeValidator.cs",
+              "RelativeToolTip": "Practical_22.Application\\Validators\\CreateEmployeeValidator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T05:01:43.244Z",
+              "WhenOpened": "2026-06-03T05:00:37.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\Mapping\\EmployeeProfile.cs",
+              "RelativeDocumentMoniker": "Practical_22.Application\\Mapping\\EmployeeProfile.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\Mapping\\EmployeeProfile.cs",
+              "RelativeToolTip": "Practical_22.Application\\Mapping\\EmployeeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T04:46:19.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Practical_22.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Practical_22.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T04:31:49.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\Interfaces\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Practical_22.Application\\Interfaces\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\Interfaces\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "Practical_22.Application\\Interfaces\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T04:30:16.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Practical_22.Application\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "Practical_22.Application\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T05:01:43.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Infrastructure\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Practical_22.Infrastructure\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Infrastructure\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Practical_22.Infrastructure\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwHoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T05:01:43.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Practical_22.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Practical_22.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T04:14:41.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Practical_22.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Practical_22.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T04:18:19.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\Interfaces\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Practical_22.Application\\Interfaces\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\Interfaces\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Practical_22.Application\\Interfaces\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T04:02:06.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\Interfaces\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Practical_22.Application\\Interfaces\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\Interfaces\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Practical_22.Application\\Interfaces\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T04:12:13.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Infrastructure\\Logging\\LoggerService.cs",
+              "RelativeDocumentMoniker": "Practical_22.Infrastructure\\Logging\\LoggerService.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Infrastructure\\Logging\\LoggerService.cs",
+              "RelativeToolTip": "Practical_22.Infrastructure\\Logging\\LoggerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T05:01:43.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Practical_22.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Practical_22.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T03:32:28.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Practical_22.Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "Practical_22.Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T05:01:43.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Practical_22.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Practical_22.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T05:01:42.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ILoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\Interfaces\\ILoggerService.cs",
+              "RelativeDocumentMoniker": "Practical_22.Application\\Interfaces\\ILoggerService.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Application\\Interfaces\\ILoggerService.cs",
+              "RelativeToolTip": "Practical_22.Application\\Interfaces\\ILoggerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T05:01:43.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Practical_22.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.API\\appsettings.json",
+              "RelativeToolTip": "Practical_22.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-01T05:06:57.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260601051015_InitialCreate2.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Infrastructure\\Migrations\\20260601051015_InitialCreate2.cs",
+              "RelativeDocumentMoniker": "Practical_22.Infrastructure\\Migrations\\20260601051015_InitialCreate2.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Design_Pattern_Practical\\Design_Pattern_Practicals\\Practical_22\\Practical_22\\Practical_22.Infrastructure\\Migrations\\20260601051015_InitialCreate2.cs",
+              "RelativeToolTip": "Practical_22.Infrastructure\\Migrations\\20260601051015_InitialCreate2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T05:10:15.603Z",
               "EditorCaption": ""
             }
           ]
